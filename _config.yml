@@ -46,7 +46,7 @@ author:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "pwills-com"
+    shortname: ""
 
 analytics:
   provider: "google"
