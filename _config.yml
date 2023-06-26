@@ -1,5 +1,4 @@
-# Configs for pwills.com
-
+# Configs 
 title: ""
 name: ""
 email: ftahmas1@binghamton.edu
@@ -24,7 +23,7 @@ plugins:
   - jekyll-seo-tag
 
 # Jekyll configuration
-permalink:   /:title/
+#permalink:   /:title/
 
 # Build settings
 markdown: kramdown
@@ -35,7 +34,7 @@ minimal_mistakes_skin: "default"
 # settings for author profile
 author:
   name   : "Fatemeh Tahmasbi"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/FatemehTahmasbi (copy).jpg"
   bio    : "Passionate about data science and data analytics"
   #location: "Ithaca, NY"
   github : FTB-B
