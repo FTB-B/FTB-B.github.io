@@ -1,7 +1,0 @@
----
-title: "AutoVis"
-category: posts
-excerpt: "Python EDA"
----
-
-
