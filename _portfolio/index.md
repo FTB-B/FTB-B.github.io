@@ -81,4 +81,20 @@ Below are some of my projects and you can find more on my [GitHub](https://githu
       </p>
     </div>
   </div>
+  <div class="row">
+    <div class="img-section">
+      <img src="/assets/images/portfolio/airbnb-analysis.png" alt="Guns on Social Media">
+    </div>
+    <div class="desc-section">
+      <h2>Gun mining on social media</h2>
+      <p>Scraped Gun images from different gun e-commerce webpages</p>
+      <p>Finetuned ViT (Visual Transformer) model to identify gun images on social media</p>
+      <p>Extracted Topics from comments </p>
+      <p>Explored how guns are being shared on social media </p>
+      <p><b>Skills</b>: Python, Scrapy, Deep Learning, Topic Analysis, BERTopic, TOP2Vec, Data Visualization, EDA, Sentiment Analysis</p>
+      <p>
+        <a target="_blank" href="https://github.com/eeliuqin/Airbnb-Reviews-Text-Mining-and-Sentiment-Analysis">Code</a>
+      </p>
+    </div>
+  </div>
 </div>
