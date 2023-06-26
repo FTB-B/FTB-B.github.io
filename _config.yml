@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
-title: "pwills.com"
-name: "pwills.com"
-email: peter@pwills.com
-url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+title: "Fatemeh Tahmasbi"
+name: "Fatemeh Tahmasbi"
+email: ftahmas1@binghamton.edu
+url: "http://FTB-B.github.io"
+repository: "FTB-B/FTB-B.github.io"
 
 include:
   - _pages
@@ -20,22 +20,27 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Jekyll configuration
+permalink:   /:title/
 
 # Build settings
 markdown: kramdown
-theme: "minimal-mistakes-jekyll"
+#theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "default"
   
 # settings for author profile
 author:
-  name   : "Peter Wills"
+  name   : "Fatemeh Tahmasbi"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
-  location: "Ithaca, NY"
-  github : peterewills
-  linkedin: peterewills
-  email  : peter@pwills.com
+  bio    : "Passionate about data science and data analytics"
+  #location: "Ithaca, NY"
+  github : FTB-B
+  linkedin: fatemeht
+  email  : ftahmas1@binghamton.edu
 
 
 # # comments by disqus
@@ -47,7 +52,7 @@ comments:
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-116208936-1"
+    tracking_id: ""
 
 
 # pagination for blog page
