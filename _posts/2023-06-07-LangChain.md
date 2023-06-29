@@ -16,3 +16,5 @@ Such chains can incorporate multiple elements from a variety of modules:
 - Agents: These utilize LLMs to determine the appropriate actions to be carried out. They can employ tools like web search or calculators, all of which are integrated into a coherent operation cycle.
 
 - Memory: This includes both short-term and long-term memory.
+
+For building application with LLM (Large Language Models) we need to have an API-Key for the LLM provider. If you want to use Hugging Face LLM models the API is free, but you might sacrifice accuracy with it. To get more accurate results you can use OpenAPI Key  which cost a little bit of money in your pocket! 
