@@ -8,6 +8,7 @@ Pandas Profiling is an open-source Python library that generates interactive rep
 
 In a single line of code, the library provides insights about your data including:
     - Descriptive statistics - Provides basic information about the dataset like the number of variables, observations, missing values, duplicate rows, etc.
+   
     - Variable properties - Detailed information about each column/variable in the DataFrame such as data type, distinct values, missing values, mean, median, mode, standard deviation, minimum value, maximum value, quartiles, etc.
     
     - Correlations - It will show the correlation between different variables in various formats (Pearson's, Spearman's, Kendall's, etc). It's beneficial when you want to understand the relationships between different variables.
