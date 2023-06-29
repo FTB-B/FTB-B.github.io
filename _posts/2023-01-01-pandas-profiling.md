@@ -8,16 +8,16 @@ Pandas Profiling is an open-source Python library that generates interactive rep
 
 In a single line of code, the library provides insights about your data including:
     
-    - Descriptive statistics - Provides basic information about the dataset like the number of variables, observations, missing values, duplicate rows, etc.
+    1. Descriptive statistics - Provides basic information about the dataset like the number of variables, observations, missing values, duplicate rows, etc.
     
-    - Variable properties - Detailed information about each column/variable in the DataFrame such as data type, distinct values, missing values, mean, median, mode, standard deviation, minimum value, maximum value, quartiles, etc.
+    2. Variable properties - Detailed information about each column/variable in the DataFrame such as data type, distinct values, missing values, mean, median, mode, standard deviation, minimum value, maximum value, quartiles, etc.
     
-    - Correlations - It will show the correlation between different variables in various formats (Pearson's, Spearman's, Kendall's, etc). It's beneficial when you want to understand the relationships between different variables.
+    3. Correlations - It will show the correlation between different variables in various formats (Pearson's, Spearman's, Kendall's, etc). It's beneficial when you want to understand the relationships between different variables.
     
-    - Histogram - Distribution of each variable is also presented in a histogram which makes it easy to understand the distribution of values for each column.
+    4. Histogram - Distribution of each variable is also presented in a histogram which makes it easy to understand the distribution of values for each column.
     
-    - Heatmaps - These are useful to identify missing values and the correlation between different variables.
+    5.  Heatmaps - These are useful to identify missing values and the correlation between different variables.
     
-    - Sample of dataset - Displays the first and last rows of the DataFrame.
+    6.  Sample of dataset - Displays the first and last rows of the DataFrame.
 
 
