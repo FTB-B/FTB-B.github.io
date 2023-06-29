@@ -19,8 +19,9 @@ In a single line of code, the library provides insights about your data includin
     5.  Heatmaps - These are useful to identify missing values and the correlation between different variables.
     
     6.  Sample of dataset - Displays the first and last rows of the DataFrame.
-    
-    ```python
+
+ 
+```python
     import pandas as pd
     from pandas_profiling import ProfileReport
 
@@ -32,6 +33,6 @@ In a single line of code, the library provides insights about your data includin
 
     # Save the report as an HTML file
     profile.to_file("your_report.html")
-    ```
+ ```
 
 
