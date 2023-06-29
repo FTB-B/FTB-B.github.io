@@ -34,5 +34,7 @@ In a single line of code, the library provides insights about your data includin
     # Save the report as an HTML file
     profile.to_file("your_report.html")
  ```
-
+<div class="img-section">
+      <img src="/assets/images/pandas-profiling.gif" alt="">
+</div>
 
